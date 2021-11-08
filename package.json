@@ -1,0 +1,19 @@
+{
+  "name": "soda-bootcamp",
+  "version": "1.0.0",
+  "description": "SoDA Bootcamp",
+  "main": "html.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DWefel/SoDA-Bootcamp.git"
+  },
+  "author": "Dean Wefel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DWefel/SoDA-Bootcamp/issues"
+  },
+  "homepage": "https://github.com/DWefel/SoDA-Bootcamp#readme"
+}
